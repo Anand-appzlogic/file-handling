@@ -1,0 +1,4 @@
+com\file\ReadConfigFile.class
+com\file\ReadYAMLFile.class
+com\file\ReadJSONFile.class
+com\file\ReadCSVFile.class
